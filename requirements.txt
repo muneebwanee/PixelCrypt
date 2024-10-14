@@ -1,0 +1,7 @@
+# requirements.txt
+
+# Image processing library
+Pillow>=9.0.0  # Version 9.x or later to ensure compatibility with recent features
+
+# Cryptography library for encryption
+cryptography>=39.0.0  # Ensures latest security patches and features
